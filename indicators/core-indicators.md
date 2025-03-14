@@ -47,7 +47,7 @@ We welcome contributions! Please submit a **pull request** to propose changes, i
 
 ### Steps to Contribute:
 1. **Fork this repository** and create a new branch.
-2. **Make changes** to the `core-indicators.md` file.
+2. **Make changes** to the [core-indicators.md](https://github.com/DPGAlliance/CoP-Maturity-Indicators/blob/main/indicators/core-indicators.md) file.
 3. **Submit a pull request** for review.
 4. The Community of Practice will review contributions and finalize updates.
 
