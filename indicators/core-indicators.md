@@ -42,5 +42,12 @@ Each indicator is categorized under a **pillar** and described with three levels
 |-----------|------------|-----|--------|------|
 | **Flexible architecture** | The Extent to which the solution's architecture fosters modularity, flexibility, and adaptability. By embracing standardization and interoperability, composability fosters creating and reusing scalable building blocks. This approach drives agility and cost efficiency, empowering teams to respond swiftly to evolving challenges. |The solution's architecture is closer to a monolith than a modular and extensible set of components. Local customizations require forking or direct modification of the main codebase. |A base level of modularity exists and the architecture permits some plug-and-play flexibility.  | Solution has been designed with composability from the start.  Architecture is composed of modern, flexible, and independent microservices.| 
 
-
 ## How to Contribute
+We welcome contributions! Please submit a **pull request** to propose changes, improvements, or additional insights.
+
+### Steps to Contribute:
+1. **Fork this repository** and create a new branch.
+2. **Make changes** to the `core-indicators.md` file.
+3. **Submit a pull request** for review.
+4. The Community of Practice will review contributions and finalize updates.
+
